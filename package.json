@@ -1,0 +1,18 @@
+{
+  "name": "nutripulse-calorie-tracker",
+  "version": "1.0.0",
+  "description": "Smart Calorie & Metabolic Health Tracker based on weight, height, age, and activity level",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "calorie-tracker",
+    "bmr-calculator",
+    "tdee-calculator",
+    "fitness",
+    "nutrition",
+    "health"
+  ],
+  "author": "",
+  "license": "MIT"
+}
